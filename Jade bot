@@ -51,9 +51,9 @@ trigger.addHelper('store', function(bot, args, done) {
 });
 var Bot = require('discord-bot');
  
-var bot = new Bot({
-    email: <email>,
-    password: <pass>
+var bot = Jade's Bot({
+    email: <creepergamingalt@gmail.com>,
+    password: <thedoc56>
 });
  
 bot
@@ -65,9 +65,9 @@ bot
 bot.connect();
 var Bot = require('discord-bot');
  
-var bot = new Bot({
-    email: <email>,
-    password: <pass>
+var bot = Jade's Bot({
+    email: <Creepergamingalt@gmail.com>,
+    password: <thedoc56>
 });
  
 bot
